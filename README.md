@@ -1,2 +1,2 @@
-# epitome-carousel
-A standalone JavaScript library for creating carousels.
+# Epitome Carousel
+A standalone jQuery library for creating carousels.
